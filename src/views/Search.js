@@ -1,5 +1,5 @@
 import React from 'react';
-import categories from '../../src/data/categories';
+import categories from '../../src/data/categories.json';
 import favoritesCategories from '../data/favorites-categories';
 import Title from '../components/Title';
 import ScrollContainer from 'react-indiana-drag-scroll';
